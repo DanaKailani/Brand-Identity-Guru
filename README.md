@@ -1,4 +1,4 @@
-# Brand Identity Guru Expert System
+# Brand Identity Guru
 Rule Based Expert System
 
 ## Introduction
