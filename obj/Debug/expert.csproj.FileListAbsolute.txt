@@ -1,0 +1,42 @@
+c:\users\rateb\documents\visual studio 2013\Projects\expert\bin\Debug\expert.exe.config
+c:\users\rateb\documents\visual studio 2013\Projects\expert\bin\Debug\expert.exe
+c:\users\rateb\documents\visual studio 2013\Projects\expert\bin\Debug\expert.pdb
+c:\users\rateb\documents\visual studio 2013\Projects\expert\bin\Debug\CLIPSNet.dll
+c:\users\rateb\documents\visual studio 2013\Projects\expert\bin\Debug\Mommosoft.ExpertSystem.dll
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.csprojResolveAssemblyReference.cache
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.Properties.Resources.resources
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.csproj.GenerateResource.Cache
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.exe
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.pdb
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.Expert.resources
+c:\users\rateb\documents\visual studio 2013\Projects\expert\obj\Debug\expert.SR.resources
+D:\AIU\Expert Systems\Lab\expert\bin\Debug\expert.exe.config
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.exe
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.pdb
+D:\AIU\Expert Systems\Lab\expert\bin\Debug\expert.exe
+D:\AIU\Expert Systems\Lab\expert\bin\Debug\expert.pdb
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.csprojResolveAssemblyReference.cache
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.Expert.resources
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.Properties.Resources.resources
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.SR.resources
+D:\AIU\Expert Systems\Lab\expert\obj\Debug\expert.csproj.GenerateResource.Cache
+D:\AIU\Expert Systems\expert\bin\Debug\expert.exe.config
+D:\AIU\Expert Systems\expert\obj\Debug\expert.exe
+D:\AIU\Expert Systems\expert\obj\Debug\expert.pdb
+D:\AIU\Expert Systems\expert\bin\Debug\expert.exe
+D:\AIU\Expert Systems\expert\bin\Debug\expert.pdb
+D:\AIU\Expert Systems\expert\obj\Debug\expert.csprojResolveAssemblyReference.cache
+D:\AIU\Expert Systems\expert\obj\Debug\expert.Properties.Resources.resources
+D:\AIU\Expert Systems\expert\obj\Debug\expert.csproj.GenerateResource.Cache
+D:\AIU\Expert Systems\expert\obj\Debug\expert.Form1.resources
+D:\AIU\Expert Systems\expert\obj\Debug\expert.Expert.resources
+D:\AIU\EXP\expert\bin\Debug\expert.exe.config
+D:\AIU\EXP\expert\obj\Debug\expert.exe
+D:\AIU\EXP\expert\obj\Debug\expert.pdb
+D:\AIU\EXP\expert\bin\Debug\expert.exe
+D:\AIU\EXP\expert\bin\Debug\expert.pdb
+D:\AIU\EXP\expert\obj\Debug\expert.csprojResolveAssemblyReference.cache
+D:\AIU\EXP\expert\obj\Debug\expert.Expert.resources
+D:\AIU\EXP\expert\obj\Debug\expert.Properties.Resources.resources
+D:\AIU\EXP\expert\obj\Debug\expert.Form1.resources
+D:\AIU\EXP\expert\obj\Debug\expert.csproj.GenerateResource.Cache
